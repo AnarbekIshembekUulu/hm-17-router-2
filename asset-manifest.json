@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hm-17-router-2/static/css/main.caaa43fb.css",
+    "main.js": "/hm-17-router-2/static/js/main.7530c8bb.js",
+    "static/media/wallpapersden.com_cool-4k-pattern_3840x2160.jpg": "/hm-17-router-2/static/media/wallpapersden.com_cool-4k-pattern_3840x2160.b1685c02b466276ce280.jpg",
+    "index.html": "/hm-17-router-2/index.html",
+    "main.caaa43fb.css.map": "/hm-17-router-2/static/css/main.caaa43fb.css.map",
+    "main.7530c8bb.js.map": "/hm-17-router-2/static/js/main.7530c8bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caaa43fb.css",
+    "static/js/main.7530c8bb.js"
+  ]
+}
